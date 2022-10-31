@@ -83,6 +83,7 @@ input{
 .cancel .btn{
     cursor: pointer;
     color: #fff;
+    white-space: nowrap;
 }
 .logo img{
     width: 178px;
