@@ -96,7 +96,7 @@ $(document).ready(function(){
     const sec1 = $('.sec-1').offset().top-100;
     const sec2 = $('.sec-3').offset().top-100;
     const sec3 = $('.sec-4').offset().top;
-    const sec4 = $('.sec-5').offset().top;
+    const sec4 = $('.sec-5').offset().top+100;
     const sec5 = $('.sec-6').offset().top;
 
     $('.tab1').click(function(){
